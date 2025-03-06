@@ -29,12 +29,12 @@ async function ProfilePageServer({ params }: { params: { username: string } }) {
   ]);
 
   return (
-    <ProfilePageClient
-      user={user}
-      posts={posts}
-      likedPosts={likedPosts}
-      isFollowing={isCurrentUserFollowing}
-    />
+      <ProfilePageClient
+          user={user}
+          posts={posts}
+          likedPosts={likedPosts}
+          isFollowing={isCurrentUserFollowing}
+      />
   );
 }
 export default ProfilePageServer;

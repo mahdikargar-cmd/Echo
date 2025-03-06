@@ -1,4 +1,3 @@
-"use client";
 
 import { UploadDropzone } from "@/lib/uploadthing";
 import { XIcon } from "lucide-react";

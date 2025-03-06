@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e65471-dcad-490c-9913-64dd2f393d2e" name="Changes" comment="" />
+    <list default="true" id="72f08121-e3ec-4a10-9ced-2f0652751bbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,33 +14,28 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2tvTJPOWr4ptRljg7M9EeSBCzDh" />
+  <component name="ProjectId" id="2twQJiO8JUoBU6T92s6dAS569OM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;F:\\rastchin\\social-media\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/rastchin/social",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "F:\\rastchin\\social-media\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\rastchin\social-media\public" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager" selected="npm.build">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -72,14 +67,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63e65471-dcad-490c-9913-64dd2f393d2e" name="Changes" comment="" />
-      <created>1741231477328</created>
+      <changelist id="72f08121-e3ec-4a10-9ced-2f0652751bbd" name="Changes" comment="" />
+      <created>1741260587219</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741231477328</updated>
-      <workItem from="1741231480306" duration="567000" />
-      <workItem from="1741232066448" duration="144000" />
-      <workItem from="1741232227901" duration="10006000" />
+      <updated>1741260587219</updated>
+      <workItem from="1741260588368" duration="195000" />
+      <workItem from="1741266207719" duration="61000" />
+      <workItem from="1741266283199" duration="153000" />
+      <workItem from="1741270953244" duration="5000" />
+      <workItem from="1741272277523" duration="678000" />
+      <workItem from="1741272984813" duration="400000" />
     </task>
     <servers />
   </component>
